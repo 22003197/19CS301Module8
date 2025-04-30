@@ -1,5 +1,5 @@
-# Exp.no: 39
-## HACKERRANK-4
+# Exp.no: 40
+## SEB
 
 ### AIM
 
