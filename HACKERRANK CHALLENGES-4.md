@@ -1,5 +1,5 @@
 # Exp.no: 39
-## HACKERRANK-4
+## HACKERRANK CHALLENGES-4
 
 ### AIM
 
