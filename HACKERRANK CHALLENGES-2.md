@@ -1,5 +1,5 @@
 # Exp.no: 37
-## HACKERRANK-2.
+## HACKERRANK CHALLENGES-2.
 
 ### AIM
 
